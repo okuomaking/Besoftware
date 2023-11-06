@@ -1,0 +1,20 @@
+/*)))))) bottons colour starts (((((((*/
+:root {
+    --btn1: #rgb(95,93,229);
+    ---btn2: #rgb(95,231,198);
+    --btn3:#rgb(55,55,55);
+    --btn4:#rgb(31,31,33);
+    --btn5:#rgb(118,116,246);
+    --btn6:#rgb(16,16,16);
+    --btn7:#rgb(243,243,243);
+    --btn8:#rgb(181,181,186);
+  }
+/*)))))) bottons colour Ends (((((((*/
+
+/*)))))) cards color starts (((((((*/
+.card{
+--card1: #rgb(31,31,33);
+--card2:#rgb(30,30,30);
+---card3:#rgb(16,16,16);
+}
+/*)))))) cards color Ends ((((((*/
